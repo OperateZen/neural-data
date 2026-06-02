@@ -1,0 +1,7 @@
+{
+  "groups": [
+    {"name":"Ops","description":"Operations team","members":[]},
+    {"name":"Dev","description":"Development team","members":[]},
+    {"name":"Infrastructure","description":"Infrastructure team","members":[]}
+  ]
+}
