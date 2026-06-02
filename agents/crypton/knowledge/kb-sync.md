@@ -1,10 +1,10 @@
 # Crypton KB Sync
-**Updated:** 2026-06-02T23:32:50.957Z
+**Updated:** 2026-06-02T23:56:32.133Z
 **Owned:** 26 | **Platform total:** 200
 
 ## crypton queried Password: 25 records
 ?? Crypton vault: 25 credentials. All agents ? verify assignments.
-At: 2026-06-02T23:32:50.679Z
+At: 2026-06-02T23:56:31.810Z
 *Tags: query, password, data_awareness, crypton, agent-learn*
 
 ## [Crypton] Daily Brief ? Tue Jun 02 2026
@@ -15,9 +15,11 @@ At: 2026-06-02T23:32:50.679Z
 [no response]
 *Tags: crypton, daily, auto-generated*
 
-## [Crypton] Daily Brief ? Tue Jun 02 2026
-[no response]
-*Tags: crypton, daily, auto-generated*
+## Search: "security" by crypton
+Found 11 refs (5 code, 6 platform). Reviewing.
+GitHub: 5 | Platform: 6
+At: 2026-06-02T23:56:12.790Z
+*Tags: search, improvement, crypton, agent-learn*
 
 ## [Crypton] Daily Brief ? Tue Jun 02 2026
 [no response]
@@ -31,11 +33,9 @@ At: 2026-06-02T23:32:50.679Z
 [no response]
 *Tags: crypton, daily, auto-generated*
 
-## Crypton security audit: 2026-06-02
-17 credentials without tags
-Passwords: 28
-At: 2026-06-02T23:29:54.219Z
-*Tags: security, audit, crypton, agent-learn*
+## [Crypton] Daily Brief ? Tue Jun 02 2026
+[no response]
+*Tags: crypton, daily, auto-generated*
 
 ## [Crypton] Daily Brief ? Tue Jun 02 2026
 [no response]
